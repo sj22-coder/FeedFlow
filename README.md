@@ -4,6 +4,10 @@
 
 FeedFlow is an AI-powered personalized content platform designed to deliver a smarter and more relevant content experience. Instead of showing every user the same generic feed, FeedFlow adapts to individual interests and preferences to surface content that matters to them.
 
+## 📁 Project Resources
+
+- 🎥 **Project Demo:** https://drive.google.com/file/d/190ojqk2xcH1KmtyiBexrxJI5XtXDFif7/view?usp=sharing
+
 ## ✨ Key Features
 
 - 🤖 **AI-Powered Personalization**  
